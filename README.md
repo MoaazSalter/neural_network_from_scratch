@@ -213,4 +213,4 @@ scikit-learn   # only used for dataset loading, splitting, and scaling
 ## Author
 
 **Moaaz Ahmed**
-- GitHub: [@Moaaz Ahmed](https://github.com/MomoSalter)
+- GitHub: [@Moaaz Ahmed](https://github.com/MoaazSalter)
